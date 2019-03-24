@@ -21,7 +21,7 @@ MAINDB="wordpress"
 USERDATABASE="user_database"
 PASSWORDDATABASE="password_database"
 SOURCEOPTION="tekprog.fr"
-DESTOPTION="185.193.38.231"
+DESTOPTION="10.123.234.121"
 
 
 #A loop for parsing arguments with traditional getopts
