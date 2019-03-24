@@ -18,8 +18,8 @@ unset USER LOGIN_MEGA PASSWORD_MEGA WEBSERVER
 
 WEBSERVER="nginx"
 MAINDB="wordpress"
-USERDATABASE="wordpressuser"
-PASSWORDDATABASE="wordpressuser"
+USERDATABASE="user_database"
+PASSWORDDATABASE="password_database"
 SOURCEOPTION="tekprog.fr"
 DESTOPTION="185.193.38.231"
 
